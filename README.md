@@ -5,6 +5,7 @@
 
 
 ## About Me
+- Name : Vorapol Boonrasri
 - Sex : Male
 - Age : 21
 - 🎓 Education: [Bachelor's degree] in [Computer Science] from [Kasetsart University]
