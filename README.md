@@ -1,7 +1,7 @@
 # 👋 Hello! I'm [Guy]   
 ---
 ![Welcome Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+Profile!)
-![Me](IMG_8299_Original.jpeg)
+![Me](Picture/IMG_8299_Original.jpeg)
 
 
 ## About Me
