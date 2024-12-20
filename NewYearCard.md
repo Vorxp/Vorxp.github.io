@@ -3,7 +3,7 @@
 Wishing you all the joy and happiness this holiday season! 
 
 ## Family Photo
-![Boonrasri Family](img/Boonrasri-Family.png)
+![Boonrasri Family](Picture/Boonrasri-Family.png)
 
 Enjoy this special time with your loved ones and may the new year bring you peace and prosperity!
 
