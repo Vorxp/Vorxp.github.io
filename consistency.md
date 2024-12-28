@@ -1,7 +1,7 @@
 # 🧪 Consistency by [MDPI](https://www.mdpi.com/2076-3417/13/12/7082)
 
 ## 📖 **MDPI**  
-📌 **Consistency:**
+📌 **Consistency:**  
   Consistency refers to the uniformity of data representations and formats across a dataset. In other words, this is the extent to which the data are free from conflicts, inaccuracies, or discrepancies when compared to other sources or systems. Inconsistent data can lead to confusion and misinterpretation by AI algorithms, resulting in suboptimal performance. Ensuring consistency requires the standardization and harmonization of data formats, units, and terminologies
 
 ---
