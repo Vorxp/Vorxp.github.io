@@ -1,6 +1,5 @@
 # Securing the Human
 ## Group : Seksan-Salahsakul
-https://youtu.be/jQjWgcT8QnA?si=njWl4ED7XrX26aYa
 ---
 
 ## **🌟 ภาพกิจกรรม**  
@@ -30,7 +29,7 @@ https://youtu.be/jQjWgcT8QnA?si=njWl4ED7XrX26aYa
 ## **🌈 ภาพรวมของกิจกรรม**  
 - **📸 ภาพรวมจบกิจกรรม**:  
   ![ภาพรวมจบกิจกรรม](Picture/Boardgame/finalpic.jpg)   
-  [วิดีโอกิจกรรม](path/to/video.mp4)  
+  [วิดีโอกิจกรรม](https://youtu.be/jQjWgcT8QnA?si=njWl4ED7XrX26aYa)  
 
 ---
 ## **👥 สมาชิกในกลุ่ม Seksan-Salahsakul**  
