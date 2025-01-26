@@ -33,7 +33,7 @@
 
 ---
 ## **👥 สมาชิกในกลุ่ม Seksan-Salahsakul**  
-1. 🌟 **Tante Wanitchakorn** →  
+1. 🌟 **Tante Wanitchakorn** → [Github Page](https://huggies2003.github.io/Boardgame)  
 2. 🌟 **Poramet Obyam** →  
-3. 🌟 **Vorapol Boonrasri** →  [Github Page](https://Vorxp.github.io/boardgame)
-4. 🌟 **Wasawat Boonporn** →  
+3. 🌟 **Vorapol Boonrasri** → [Github Page](https://Vorxp.github.io/boardgame)  
+4. 🌟 **Wasawat Boonporn** → [Github Page](https://isnname.github.io/boardgame.html) 
